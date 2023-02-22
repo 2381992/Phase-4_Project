@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-22T14:11:50 IST" name="Default suite" finished-at="2023-02-22T14:13:48 IST" duration-ms="118148">
+    <groups>
+    </groups>
+    <test started-at="2023-02-22T14:11:50 IST" name="Default test" finished-at="2023-02-22T14:13:48 IST" duration-ms="118148">
+      <class name="com.simplilearn.Phase_4_Project.Ajio">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:com.simplilearn.Phase_4_Project.Ajio@6404f418]" started-at="2023-02-22T14:11:50 IST" name="LaunchApplication" finished-at="2023-02-22T14:12:04 IST" duration-ms="13975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="SearchHandbagsForWomen()[pri:1, instance:com.simplilearn.Phase_4_Project.Ajio@6404f418]" started-at="2023-02-22T14:12:04 IST" name="SearchHandbagsForWomen" finished-at="2023-02-22T14:13:27 IST" duration-ms="83392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchHandbagsForWomen -->
+        <test-method signature="ScrollUp()[pri:2, instance:com.simplilearn.Phase_4_Project.Ajio@6404f418]" started-at="2023-02-22T14:13:27 IST" name="ScrollUp" finished-at="2023-02-22T14:13:41 IST" duration-ms="13568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollUp -->
+        <test-method signature="MoveProductToCart()[pri:3, instance:com.simplilearn.Phase_4_Project.Ajio@6404f418]" started-at="2023-02-22T14:13:41 IST" name="MoveProductToCart" finished-at="2023-02-22T14:13:45 IST" duration-ms="4025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoveProductToCart -->
+        <test-method signature="ValidationOfProductInCart()[pri:4, instance:com.simplilearn.Phase_4_Project.Ajio@6404f418]" started-at="2023-02-22T14:13:45 IST" name="ValidationOfProductInCart" finished-at="2023-02-22T14:13:48 IST" duration-ms="3089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationOfProductInCart -->
+      </class> <!-- com.simplilearn.Phase_4_Project.Ajio -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
